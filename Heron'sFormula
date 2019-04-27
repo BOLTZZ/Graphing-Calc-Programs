@@ -1,4 +1,3 @@
-# Heron's Formula 
 The code below shows you how to create a program that finds the area of a triangle just by knowing the sides you input.
 Disp "INPUT A" (This asks the user to input the length of side A)
 Input A (This inputs the length of side A)
