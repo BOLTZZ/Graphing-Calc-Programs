@@ -1,0 +1,11 @@
+This program runs the law of cosines to find the value of c (a side). Law of cosines: c = √(b^2 + a^2 - 2abcos(θ)).
+![](https://github.com/BOLTZZ/Graphing-Calc-Programs/blob/master/Images/Cosines.PNG)
+* Disp "Input B" (Asks the user to input for B)
+* Input B (Stores the input for B)
+* Disp "Input A" (Asks the user to input for A)
+* Input A (Stores the input for A)
+* Disp "Input θ" (Asks the user to input for θ)
+* Input θ (Stores the input for θ)
+* √(B^2 + A^2 - 2abcos(θ)) -> C (Performs the law of cosines for C; stores the value of C)
+* Disp "C:" (Displays C:)
+* Disp C (Displays the value of C)
